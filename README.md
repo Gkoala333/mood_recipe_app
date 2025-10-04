@@ -1,14 +1,12 @@
 Setup Instructions
 
 Install dependencies:
-Bash
 npm install
 
 Run the server:
-Bash
 npm start
 
-Open your browser: Navigate to http://localhost:3000
+Open your browser: Navigate to 🚀🚀🚀 http://localhost:3000
 
 The app features:
 
