@@ -6,7 +6,7 @@ npm install
 Run the server:
 npm start
 
-Open your browser: Navigate to 🚀🚀🚀 http://localhost:3000
+Open your browser: Navigate to 🚀🚀🚀 http://localhost:4000
 
 The app features:
 
